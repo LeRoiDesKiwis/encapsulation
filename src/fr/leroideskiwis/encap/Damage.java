@@ -9,6 +9,8 @@ public class Damage{
     }
 
     public void damage(Health health){
-        health.remove(damage);
+        if(health.isHigherThan(damage))
+            health.remove(damage);
+        else health.setToZero();
     }
 }

@@ -12,6 +12,14 @@ public class Health implements Displayable{
         return this.hp == hp;
     }
 
+    public boolean isHigherThan(int hp){
+        return this.hp > hp;
+    }
+
+    public void setToZero(){
+        this.hp = 0;
+    }
+
     public boolean isLowerOrEqualsTo(int hp){
         return this.hp <= hp;
     }
