@@ -24,11 +24,13 @@ public class Health implements Displayable{
         return this.hp <= hp;
     }
 
-    public void remove(int damage){
-        hp-= damage;
+    public void damage(int damage){
+        if(isHigherThan(damage))
+            hp-= damage;
+        else setToZero();
     }
 
-    public void add(int hp){
+    public void heal(int hp){
         this.hp+= hp;
     }
 

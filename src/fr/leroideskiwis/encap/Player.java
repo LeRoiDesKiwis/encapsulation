@@ -10,12 +10,12 @@ public class Player implements Displayable {
         this.health = new Health(health);
     }
 
-    public void heal(Heal heal){
-        heal.heal(health);
+    public void heal(int hp){
+        health.heal(hp);
     }
 
-    public void damage(Damage damage){
-        damage.damage(health);
+    public void damage(int damage){
+        health.damage(damage);
     }
 
     public boolean isDead(){

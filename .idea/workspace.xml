@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2124e814-30d1-4586-84d0-95075f68bb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Damage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Damage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Damage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Heal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Health.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Health.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Damage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Damage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testencapsulation/fr/leroideskiwis/encap/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Damage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Heal.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Health.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Health.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/leroideskiwis/encap/Player.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

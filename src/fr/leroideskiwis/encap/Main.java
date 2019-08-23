@@ -8,8 +8,8 @@ public class Main {
         player.display();
         otherPlayer.display();
 
-        player.damage(new Damage(30));
-        otherPlayer.heal(new Heal(20));
+        player.damage(30);
+        otherPlayer.heal(20);
 
         player.display();
         otherPlayer.display();
